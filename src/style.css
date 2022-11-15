@@ -1,0 +1,59 @@
+body{
+  text-align:center;
+  font-family:'Happy Monkey',cursive;
+  background: linear-gradient(#a2d2ff,#EFB0C9);
+  color:#ffffff;
+display:flex;
+  flex-direction:column;
+  align-items:center;
+  
+}
+h1,h2,h3,h4,p{
+  text-shadow:0px 0px 1px black;
+}
+#bff-img{
+  width:150px;
+  border-radius:50%;
+  border: 6px solid #EFB0C9;
+}
+#bd-age{
+  background: #EFB0C9;
+  padding:5px 10px;
+  border-radius:5px;
+  margin:5px 0 10px 0;
+}
+#bd-date{
+  margin:0;
+  background: #EFB0C9;
+   padding:5px 10px;
+  border-radius:5px;
+}
+#header{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+.gift-section{
+  margin-top:50px;
+}
+.ggift-title{
+  margin-bottom:10px;
+}
+.gift-hint{
+  margin-top:0;
+}
+.gift-img{
+  margin:0 auto;
+  width:450px;
+  height:250px;
+  border:6px solid white;
+  border-radius:10px;
+  background-image: url("https://static.magicpin.com/storage/blog/images/christmas-gift-ideas-for-male-friends-cover.PNG");
+  background-size:cover;
+}
+#gift-img-happy:hover{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQltutXzn4KR3oWd-CEQGmv-T4NEdpnYtb-wQ&usqp=CAU");
+}
+#gift-img-paagal:hover{
+  background-image: url("https://i.pinimg.com/originals/b8/60/6c/b8606cee998847c3941c191521d8f28a.gif");
+}
